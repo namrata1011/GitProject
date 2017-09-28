@@ -1,1 +1,6 @@
-console.log('Hi! Bye.');
+
+funtion greet(name) {
+	console.log('Hi! '+name);
+}
+
+greet('Namrata');
